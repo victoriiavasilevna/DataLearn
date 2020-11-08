@@ -1,1 +1,1 @@
-Thihs is 'a fold for Module2
+This is a fold for Module2
